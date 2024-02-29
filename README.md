@@ -13,3 +13,9 @@ Parch Linux development roadmap
 
 - ## Applications
     - [Parch Transfer](./Parch/apps/transfer.md)
+
+
+- ## Mobile
+    - [ParchBootStrap](./Parch/Mobile/parchbootstrap.md)
+    - [Parch PinePhone](./Parch/Mobile/pinephone.md)
+    - [Parch Mobile](./Parch/Mobile/parchmobile.md) 
