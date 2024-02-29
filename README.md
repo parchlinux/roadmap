@@ -11,3 +11,5 @@ Parch Linux development roadmap
     - [Sway Release](./Parch/Desktop/sway.md)
     - [Hyprland Release](./Parch/Desktop/hyprland.md)
 
+- ## Applications
+    - [Parch Transfer](./Parch/apps/transfer.md)
