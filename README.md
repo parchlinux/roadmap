@@ -13,6 +13,7 @@ Parch Linux development roadmap
 
 - ## Applications
     - [Parch Transfer](./Parch/apps/transfer.md)
+    - [Parch NS Man](./Parch/apps/nsMan.md)
 
 
 - ## Mobile
